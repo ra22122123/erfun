@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">macOS Wallpaper</string>
+    <string name="description">A video live wallpaper that slows down on unlock</string>
+</resources>
